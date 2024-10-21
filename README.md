@@ -12,3 +12,9 @@ Hi everyone! I'm Yakov, student from Russia<br>Currently learning Computer Scien
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Namelomax&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Namelomax&icon=5&color=0)](https://visitcount.itsvg.in)
+
+How you can contact me:
+E-mail: namelomax@gmail.com
+Telegram: https://t.me/namelomax
+VK: https://vk.com/vasha.yaykus
+Discord: Jakers
