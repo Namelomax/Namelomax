@@ -13,8 +13,8 @@ Hi everyone! I'm Yakov, student from Russia<br>Currently learning Computer Scien
 
 [![](https://visitcount.itsvg.in/api?id=Namelomax&icon=5&color=0)](https://visitcount.itsvg.in)
 
-How you can contact me:
-E-mail: namelomax@gmail.com
-Telegram: https://t.me/namelomax
-VK: https://vk.com/vasha.yaykus
+How you can contact me:<br>
+E-mail: namelomax@gmail.com<br>
+Telegram: https://t.me/namelomax<br>
+VK: https://vk.com/vasha.yaykus<br>
 Discord: Jakers
