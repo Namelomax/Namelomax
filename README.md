@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi everyone! I'm Yakov, student from Russia<br>Currently learning Computer Science at ITMO University<br>I prefer work with Backend of Data Sience rather Web
+Hi everyone! I'm Yakov, student from Russia<br>Currently learning Computer Science at ITMO University<br>I prefer work with Backend of Data Sience rather than Web
 
 
 # 💻 Tech Stack:
