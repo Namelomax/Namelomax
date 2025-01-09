@@ -28,7 +28,7 @@ Have experience in:<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Namelomax&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Namelomax&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=Namelomax&icon=5&color=0)](https://visitcount.itsvg.in)546546
+![](https://visitcount.itsvg.in/api?id=Namelomax&icon=5&color=0)(https://visitcount.itsvg.in)
 
 How you can contact me:<br>
 E-mail: namelomax@gmail.com<br>
